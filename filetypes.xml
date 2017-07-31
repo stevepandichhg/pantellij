@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="load" type="Bash" />
+      <mapping pattern="mrd_cluster_manager" type="Bash" />
+      <mapping pattern="common" type="Bash" />
+      <mapping pattern="export" type="Bash" />
+      <mapping pattern="build" type="Bash" />
+      <mapping pattern="unload" type="Bash" />
+      <mapping pattern="run_loads" type="Bash" />
+      <mapping pattern="run_export" type="Bash" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>
