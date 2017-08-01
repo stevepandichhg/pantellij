@@ -46,15 +46,6 @@
           <option name="LABEL_EXPRESSION" value="getAbsolutePath()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="CandidateScoreBuilder" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.hgdata.url.firmographics.scoring.score.CandidateScoreBuilder" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="com.hgdata.url.firmographics.scoring.score.CandidateScoreBuilder" />
-          <option name="LABEL_EXPRESSION" value="score.get()&#13;&#13;JAVA" />
-        </Renderer>
-      </Renderer>
     </CustomRenderers>
   </component>
 </application>
