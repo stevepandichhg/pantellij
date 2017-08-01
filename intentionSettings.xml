@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Boolean/Expand Boolean to multiple ifs" />
+    <ignoreAction name="Java/Boolean/Expand Boolean" />
+    <ignoreAction name="Java/Imports/Add On Demand Static Import" />
+  </component>
+</application>
