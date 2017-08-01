@@ -1,0 +1,291 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/workspace/TechHitValidator" value="2962481472000" />
+            <entry key="$USER_HOME$/workspace/common-utils" value="4435690059000" />
+            <entry key="$USER_HOME$/workspace/commons-jcommander" value="2963172780000" />
+            <entry key="$USER_HOME$/workspace/elasticsearch-tools" value="4454056968000" />
+            <entry key="$USER_HOME$/workspace/emr-automation" value="4442924535000" />
+            <entry key="$USER_HOME$/workspace/matcher" value="4435760088000" />
+            <entry key="$USER_HOME$/workspace/mrd-pipeline" value="2973932460000" />
+            <entry key="$USER_HOME$/workspace/scena" value="2963993259000" />
+            <entry key="$USER_HOME$/workspace/sparkwizard" value="2975960269000" />
+            <entry key="$USER_HOME$/workspace/tawger" value="4435647456000" />
+            <entry key="$USER_HOME$/workspace/tech-hits-validator" value="2963052599000" />
+            <entry key="$USER_HOME$/workspace/titler" value="4446099159000" />
+            <entry key="$USER_HOME$/workspace/url-firmographics" value="4435690608000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MarkdownProjectSettings">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true">
+          <PanelProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+          </PanelProvider>
+        </PreviewSettings>
+        <ParserSettings gitHubSyntaxChange="false">
+          <PegdownExtensions>
+            <option name="ABBREVIATIONS" value="false" />
+            <option name="ANCHORLINKS" value="true" />
+            <option name="ASIDE" value="false" />
+            <option name="ATXHEADERSPACE" value="true" />
+            <option name="AUTOLINKS" value="true" />
+            <option name="DEFINITIONS" value="false" />
+            <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+            <option name="FENCED_CODE_BLOCKS" value="true" />
+            <option name="FOOTNOTES" value="false" />
+            <option name="HARDWRAPS" value="false" />
+            <option name="HTML_DEEP_PARSER" value="false" />
+            <option name="INSERTED" value="false" />
+            <option name="QUOTES" value="false" />
+            <option name="RELAXEDHRULES" value="true" />
+            <option name="SMARTS" value="false" />
+            <option name="STRIKETHROUGH" value="true" />
+            <option name="SUBSCRIPT" value="false" />
+            <option name="SUPERSCRIPT" value="false" />
+            <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+            <option name="SUPPRESS_INLINE_HTML" value="false" />
+            <option name="TABLES" value="true" />
+            <option name="TASKLISTITEMS" value="true" />
+            <option name="TOC" value="false" />
+            <option name="WIKILINKS" value="true" />
+          </PegdownExtensions>
+          <ParserOptions>
+            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="DUMMY" value="false" />
+            <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="FLEXMARK_FRONT_MATTER" value="false" />
+            <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+            <option name="GFM_TABLE_RENDERING" value="true" />
+            <option name="GITBOOK_URL_ENCODING" value="false" />
+            <option name="GITHUB_EMOJI_URL" value="false" />
+            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+          </ParserOptions>
+        </ParserSettings>
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true">
+          <GeneratorProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+          </GeneratorProvider>
+          <headerTop />
+          <headerBottom />
+          <bodyTop />
+          <bodyBottom />
+        </HtmlSettings>
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+          <StylesheetProvider>
+            <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+          </StylesheetProvider>
+          <ScriptProviders />
+          <cssText />
+        </CssSettings>
+        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" />
+        <LinkMapSettings>
+          <textMaps />
+        </LinkMapSettings>
+      </component>
+      <component name="PreferredVcsStorage">
+        <preferredVcsName>ApexVCS</preferredVcsName>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="spandich" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Class structureJava</id>
+              </State>
+              <State>
+                <id>Code maturity issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Javadoc issuesJava</id>
+              </State>
+              <State>
+                <id>Performance issuesJava</id>
+              </State>
+              <State>
+                <id>TestNGJava</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ant inspections</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="last_opened_file_path" value="/Applications/VisualVM.app/Contents/MacOS/visualvm" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.19599304" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
