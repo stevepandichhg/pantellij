@@ -33,8 +33,4 @@
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-  </component>
 </application>
