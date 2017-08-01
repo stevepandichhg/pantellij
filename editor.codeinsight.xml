@@ -24,7 +24,7 @@
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util.*" />
     <EXCLUDED_PACKAGE NAME="org.spark_project.guava.*" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="HGData">
+  <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
