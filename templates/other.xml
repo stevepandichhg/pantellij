@@ -5,5 +5,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="psvm" value="public static void main(final String... args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true" />
+  <template name="psvm" value="public static void main(final String... args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
