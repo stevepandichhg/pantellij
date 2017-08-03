@@ -2,4 +2,10 @@
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="ctrl meta alt back_slash" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl meta alt right" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl meta alt left" />
+  </action>
 </keymap>
