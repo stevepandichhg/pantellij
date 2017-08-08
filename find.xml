@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'mrd-pipeline'" />
-    <option name="defaultScopeName" value="Project 'mrd-pipeline'" />
+    <option name="customScope" value="non-test" />
+    <option name="defaultScopeName" value="non-test" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'mrd-pipeline'" />
+    <option name="SEARCH_SCOPE" value="non-test" />
     <recentFileMasks>
       <mask>*.java,*.sql</mask>
       <mask>*.java,*.config,*.json</mask>
