@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="non-test" />
-    <option name="defaultScopeName" value="non-test" />
+    <option name="customScope" value="Main" />
+    <option name="defaultScopeName" value="Main" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="non-test" />
+    <option name="SEARCH_SCOPE" value="Main" />
     <recentFileMasks>
       <mask>*.java,*.sql</mask>
       <mask>*.java,*.config,*.json</mask>
