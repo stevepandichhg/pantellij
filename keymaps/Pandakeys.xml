@@ -1,7 +1,8 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Pandakeys" parent="Mac OS X 10.5+">
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="ctrl meta alt back_slash" />
   </action>
+  <action id="EmmetNextEditPoint" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
   </action>
