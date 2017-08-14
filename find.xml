@@ -24,8 +24,6 @@
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.g</mask>
       <mask>*.grp</mask>
       <mask>*.gr</mask>
@@ -33,11 +31,13 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.JA</mask>
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
