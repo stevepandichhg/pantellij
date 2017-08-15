@@ -9,10 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.java,*.json,*.</mask>
-      <mask>*.java,*.json,*.c</mask>
       <mask>*.java,*.json,*.co</mask>
       <mask>*.java,*.json,*.conf</mask>
       <mask>*.java,*.json</mask>
@@ -35,12 +33,14 @@
       <mask>*.JAV</mask>
       <mask>*.JAVA</mask>
       <mask>*</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
