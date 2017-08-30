@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="mrd_cluster_manager" type="Bash" />
       <mapping pattern="common" type="Bash" />
+      <mapping pattern="chronicle" type="Bash" />
       <mapping pattern="run_export" type="Bash" />
       <mapping pattern="run_loads" type="Bash" />
       <mapping pattern="export" type="Bash" />
