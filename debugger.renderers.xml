@@ -29,6 +29,15 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="org.apache.spark.sql.catalyst.expressions.GenericRowWithSchema" />
+          <option name="LABEL_EXPRESSION" value="values()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="Path" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.nio.file.Path" />
