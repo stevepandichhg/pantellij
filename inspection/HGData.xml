@@ -346,7 +346,6 @@
   <inspection_tool class="LambdaParameterTypeCanBeSpecified" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="LambdaUnfriendlyMethodOverload" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LengthOneStringInIndexOf" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="LengthOneStringsInConcatenation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LimitedScopeInnerClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ListIndexOfReplaceableByContains" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ListenerMayUseAdapter" enabled="true" level="WARNING" enabled_by_default="true">
@@ -612,7 +611,7 @@
     <option name="m_ignorePrimitives" value="false" />
   </inspection_tool>
   <inspection_tool class="StringBufferField" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StringBufferMustHaveInitialCapacity" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="StringBufferMustHaveInitialCapacity" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="StringBufferToStringInConcatenation" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringCompareTo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringConcatenation" enabled="true" level="WARNING" enabled_by_default="true">
