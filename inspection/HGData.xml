@@ -286,7 +286,7 @@
     <option name="m_ignoreInvisibleFields" value="true" />
   </inspection_tool>
   <inspection_tool class="InstanceGuardedByStatic" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="InstanceVariableInitialization" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="InstanceVariableInitialization" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignorePrimitives" value="true" />
   </inspection_tool>
   <inspection_tool class="InstanceVariableUninitializedUse" enabled="true" level="WARNING" enabled_by_default="true">
