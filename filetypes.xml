@@ -11,6 +11,7 @@
       <mapping pattern="load" type="Bash" />
       <mapping pattern="unload" type="Bash" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
